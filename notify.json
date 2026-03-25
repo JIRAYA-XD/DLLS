@@ -1,1 +1,11 @@
-Hello
+{
+  "all_users": false,
+  "AIMSILENT EXE": true,
+  "AIMKILL EXE": false,
+  "AIMKILL APK": false,
+  "UID BYPASS": false,
+  "BASIC PANEL": false,
+  "FREE PANEL": false,
+  "title": "SYSTEM NOTIFICATION",
+  "message": "Welcome to TerminalX999! Aapka dashboard ab fully active hai."
+}
